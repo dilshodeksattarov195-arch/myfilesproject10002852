@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "tokenealidate",
+        "uuid": 25802044,
+        "checksum": "cqh5ft"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
